@@ -1,14 +1,14 @@
 //
-//  CommonNavigationController.swift
+//  SearchViewController.swift
 //  PersonPages
 //
-//  Created by 余鹏 on 2018/4/27.
+//  Created by yupeng on 2018/4/28.
 //  Copyright © 2018年 com.doudou. All rights reserved.
 //
 
 import UIKit
 
-class CommonNavigationController: UINavigationController {
+class SearchViewController: CommonViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
